@@ -8,12 +8,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0049-group-anagrams](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0202-happy-number](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,4 +32,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0202-happy-number/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 <!---LeetCode Topics End-->
