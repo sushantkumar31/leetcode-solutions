@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0867-transpose-matrix](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
+| [1534-count-good-triplets](https://github.com/sushantkumar31/leetcode-solutions/tree/main/1534-count-good-triplets/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sushantkumar31/leetcode-solutions/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/sushantkumar31/leetcode-solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 ## Hash Table
@@ -58,4 +59,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/sushantkumar31/leetcode-solutions/tree/main/0867-transpose-matrix/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1534-count-good-triplets](https://github.com/sushantkumar31/leetcode-solutions/tree/main/1534-count-good-triplets/) | Easy |
 <!---LeetCode Topics End-->
